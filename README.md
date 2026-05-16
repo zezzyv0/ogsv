@@ -1,4 +1,4 @@
-# Termux code?
+# Termux
 
 termux-app
 Repository navigation
